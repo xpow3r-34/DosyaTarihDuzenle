@@ -6,6 +6,10 @@
 
 Dosyaların oluşturulma, değiştirilme ve son erişim zamanlarını toplu olarak ayarlar. Dosya sırası, her dosyaya atanacak zamanı belirler.
 
+## Contributors
+
+- [xpow3r-34](https://github.com/xpow3r-34)
+
 ## Başlatma
 
 `DosyaTarihDuzenle.bat` dosyasına çift tıklayın. Gerekli Pillow ve tkinterdnd2 paketleri eksikse başlatıcı bunları `requirements.txt` dosyasından kurar. Paket kurulumu için internet bağlantısı gerekir. Elle başlatmak için:
